@@ -16,7 +16,7 @@ h1 {
 .container {
     margin: 10px;
     border: 1px solid black;
-    background-color: grey;
+    background-color: #999999;
 }
 
 p {
