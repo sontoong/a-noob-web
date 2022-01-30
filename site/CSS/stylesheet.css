@@ -8,6 +8,7 @@
   }
 
 h1 {
+    font-family: "Upheaval", serif;
     text-align: center;
     font-size: 2em;
 }
@@ -40,6 +41,7 @@ subbox1 {
 }
 
 subbox2 {
+    font-family: "Upheaval", serif;
     float: right;
     background-color: #c14543;
     right: 0;
@@ -51,6 +53,7 @@ subbox2 {
 }
 
 subbox3 {
+    font-family: "Upheaval", serif;
     float: right;
     background-color: #e5d198;
     right: 0;
