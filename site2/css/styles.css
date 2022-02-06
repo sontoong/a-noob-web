@@ -1,0 +1,55 @@
+#head-title {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.row {
+    width: 100%;
+}
+
+body .navbar-brand {
+    margin-top: 0px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
+h3 {
+    padding-top: 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#content {
+    padding: auto;
+    width: 90%;
+    height: auto;
+    margin: 10px;
+    color: black;
+}
+
+.navbar {
+    border-bottom: 2px solid black;
+}
+
+#space .container-fluid {
+    background-color: lightgrey;
+    margin: 10px 10px 0 10px;
+}
+
+#nav-items a:hover{
+    background-color: aqua;
+}
+
+#nav-items a{
+    background-color: white;
+    border: 2px solid black;
+    font-weight: 500;
+}
+
+button .navbar-toggler-icon {
+    width: 1em;
+    height: 1em;
+}
